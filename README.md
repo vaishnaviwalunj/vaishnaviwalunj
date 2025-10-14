@@ -18,11 +18,11 @@ Currently, I’m improving my skills in **Python, SQL, Power BI, and front-end t
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C++, SQL, Basic Java  
+**Languages:** Python, C++, SQL 
 **Web Technologies:** HTML, CSS, Django  
 **Data Analytics & Visualization:** Power BI, Pandas, NumPy, Matplotlib, Excel  
 **Database:** MySQL  
-**Tools & IDEs:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, IntelliJ  
+**Tools & IDEs:**  GitHub, VS Code, Jupyter Notebook, Google Colab
 
 ---
 
@@ -48,5 +48,4 @@ Currently, I’m improving my skills in **Python, SQL, Power BI, and front-end t
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-walunj-23088b25a)
-- 🌐 [Portfolio Website](https://vaishnaviwalunj.github.io/portfolio/)
 - 📬 **vaishnaviwalunj5325@gmail.com**
