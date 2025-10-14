@@ -1,39 +1,40 @@
+## Hi there 👋
+
 # 👋 Hi, I'm Vaishnavi Walunj
 
-🎓 Final Year B.E. Student | Artificial Intelligence and Data Science  
+🎓 Third-Year B.E. Student | Artificial Intelligence and Data Science  
 📍 Pune, India  
-💻 Aspiring Web Developer  | Data Enthusiast
+💻 Aspiring Data Analyst | Web Developer
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 About Me
 
-I'm actively diving into:
-- 🌐 WordPress plugin and theme development
-- 💡 PHP & JavaScript for full-stack web development
-- 🔧 Open-source contribution workflows (Git, GitHub, PRs)
-
-Stay tuned for updates — I'm pushing progress and projects daily!
+I'm a passionate learner with strong interests in **data analytics** and **web development**.  
+I enjoy working with data to discover insights and creating clean, responsive web interfaces.  
+Currently, I’m improving my skills in **Python, SQL, Power BI, and front-end technologies**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**: Java, Python, PHP, JavaScript, C++, SQL  
-**Web**: HTML, CSS,  Streamlit  
-**Database**: MySQL  
-**Tools**: Git, GitHub, VS Code, Power BI, Jupyter, Colab  
-**In Progress**: WordPress, React.js
+**Languages:** Python, C++, SQL, Basic Java  
+**Web Technologies:** HTML, CSS, Django  
+**Data Analytics & Visualization:** Power BI, Pandas, NumPy, Matplotlib, Excel  
+**Database:** MySQL  
+**Tools & IDEs:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, IntelliJ  
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔹 [GDP and Productivity of Indian Cities](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/tree/vaishnavi-walunj) – Streamlit + Power BI  
-- 🔹 [Sai Mart – Grocery Store Web App](https://github.com/sakshimote20/Sai_Mart) – co-developed Django + Frontend Design
-- 🔹 [SmartKrishi – Agriculture Assistant System](https://github.com/sakshimote20/SmartKrishi) – Co-developed a smart farming web application using HTML, CSS, JavaScript, and Django to help farmers with crop prediction and resource management.
+- 🔹 [GDP and Productivity of Indian Cities](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/tree/vaishnavi-walunj) –  
+  Created a Power BI dashboard to visualize GDP and productivity metrics of Indian cities.  
+  Used Python (Pandas, NumPy) for data cleaning, merging, and outlier detection.
 
-- 🔹 Color Changer & PHP Login System (Coming Soon 🚧)
+- 🔹 [Sai Mart – Grocery Store Web App](https://github.com/sakshimote20/Sai_Mart) –  
+  Designed a responsive front-end using HTML and CSS for a Django-based grocery web application.  
+  Focused on user-friendly layouts, form design, and mobile-first responsiveness.
 
 ---
 
@@ -46,8 +47,6 @@ Stay tuned for updates — I'm pushing progress and projects daily!
 
 ## 📫 Let's Connect!
 
-- 🔗 [LinkedIn](www.linkedin.com/in/vaishnavi-walunj-23088b25a)
-- 🌐 [Portfolio Website](https://vaishnaviwalunj.github.io/portfolio/) 
-- 📬 vaishnaviwalunj5325@gmail.com
-
----
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-walunj-23088b25a)
+- 🌐 [Portfolio Website](https://vaishnaviwalunj.github.io/portfolio/)
+- 📬 **vaishnaviwalunj5325@gmail.com**
