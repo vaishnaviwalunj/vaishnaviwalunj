@@ -19,7 +19,7 @@ Currently, I’m improving my skills in **Python, SQL, Power BI, and front-end t
 ## 🛠️ Tech Stack
 
 **Languages:** Python, C++, SQL 
-**Web Technologies:** HTML, CSS, Django  
+**Web Technologies:** HTML, CSS, Django , Streamlit  
 **Data Analytics & Visualization:** Power BI, Pandas, NumPy, Matplotlib, Excel  
 **Database:** MySQL  
 **Tools & IDEs:**  GitHub, VS Code, Jupyter Notebook, Google Colab
